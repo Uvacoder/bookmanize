@@ -4,6 +4,10 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.5.5**
+    - Bug fix for the radio button in the main list
+    - Allow searching in the drop-down list 
+    - In the pop-up windows, open the drop-down list by clicking on it
 - **1.5.0 - 1.5.4**
     - Add Polish lang
     - Add Chinese lang
