@@ -4,6 +4,9 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.5.6**
+    - Added search section in the Add Folder popup
+    - Added support for Dark Mode
 - **1.5.5**
     - Bug fix for the radio button in the main list
     - Allow searching in the drop-down list 
