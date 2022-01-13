@@ -8,6 +8,7 @@ title: Bookmanize Versions
     - Fix header buttons margin in popup
     - Remove dark theme button from popup. Add search field to dropdown when select items
     - Fix the drag label when dragging an item that is not in the selected list
+    - Add autofocus to the search field
 - **1.5.6**
     - Add search section in the Add Folder popup
     - Add support for Dark Mode
