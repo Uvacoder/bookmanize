@@ -4,9 +4,14 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.5.7 - 1.5.8**
+    - Fix header buttons margin in popup
+    - Remove dark theme button from popup. Add search field to dropdown when select items
+    - Fix the drag label when dragging an item that is not in the selected list
 - **1.5.6**
-    - Added search section in the Add Folder popup
-    - Added support for Dark Mode
+    - Add search section in the Add Folder popup
+    - Add support for Dark Mode
+    - Migrate to manifest v3
 - **1.5.5**
     - Bug fix for the radio button in the main list
     - Allow searching in the drop-down list 
