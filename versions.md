@@ -4,6 +4,9 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.5.9 - 1.5.10**
+    - Drag n drop folders
+    - [feature request] focus searchbox by keyboard shortcuts https://github.com/bookmanize/bookmanize.github.io/issues/3
 - **1.5.7 - 1.5.8**
     - Fix header buttons margin in popup
     - Remove dark theme button from popup. Add search field to dropdown when select items
