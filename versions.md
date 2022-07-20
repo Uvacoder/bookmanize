@@ -4,7 +4,8 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
-- **1.6.0 - 1.6.4**
+- **1.6.0 - 1.6.5**
+    - No new tags can be added when colors are exhausted https://github.com/bookmanize/bookmanize.github.io/issues/5
     - Focus input when open select with search
     - Fixed scroll on main tab view
     - Fixed dnd for folder items   
