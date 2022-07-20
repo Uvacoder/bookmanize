@@ -4,6 +4,11 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.6.0 - 1.6.4**
+    - Focus input when open select with search
+    - Fixed scroll on main tab view
+    - Fixed dnd for folder items   
+    - Improved performance
 - **1.5.9 - 1.5.10**
     - Drag n drop folders
     - [feature request] focus searchbox by keyboard shortcuts https://github.com/bookmanize/bookmanize.github.io/issues/3
