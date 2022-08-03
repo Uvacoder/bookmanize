@@ -4,6 +4,10 @@ title: Bookmanize Versions
 ---
 
 # Bookmanize Versions
+- **1.6.5 - 1.6.7**
+    - Multi select using shift https://github.com/bookmanize/bookmanize.github.io/issues/4
+    - Improve the quality of favicons 
+    - Allow to add local address bookmark like chrome:// file://
 - **1.6.0 - 1.6.5**
     - No new tags can be added when colors are exhausted https://github.com/bookmanize/bookmanize.github.io/issues/5
     - Focus input when open select with search
